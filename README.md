@@ -1,1 +1,1 @@
-# Amazone-Clone using HTML and css
+Amazone-Clone using HTML and css
